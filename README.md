@@ -1,3 +1,6 @@
+## In progress...
+Had to stop implementing it because of work, but this is one of the projects I'm eager to get back into...
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
